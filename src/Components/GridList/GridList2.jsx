@@ -51,6 +51,7 @@ const GridList2 = () => {
       day: "7 Days",
     },
   ];
+  //GridList2
   return (
     <div style={{ padding: "40px 0", backgroundColor: "#f9f9f9" }}>
       <Container>

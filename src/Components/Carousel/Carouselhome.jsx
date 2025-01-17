@@ -25,7 +25,7 @@ function Carouselhome() {
       description: "Probably the most random thing you have ever seen!!",
     },
   ];
-
+//carousel
   return (
     <Carousel>
       {items.map((item, i) => (
